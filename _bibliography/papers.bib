@@ -15,10 +15,12 @@
 @inproceedings{liu2023development,
   title        = {Development and Fast Transferring of General Connectivity-Based Diagnosis Model to New Brain Disorders with Adaptive Graph Meta-Learner},
   author       = {Liu, Yuxiao and Liu, Mianxin and Zhang, Yuanwang and Shen, Dinggang},
+  abstract     = {The accurate and automatic diagnosis of new brain disorders (BDs) is crucial in the clinical stage. However, previous deep learning based methods require training new models with large data from new BDs, which is often not practical. Recent neuroscience studies suggested that BDs could share commonness from the perspective of functional connectivity derived from fMRI. This potentially enables developing a connectivity-based general model that can be transferred to new BDs to address the difficulty of training new models under data limitations. In this work, we demonstrate this possibility by employing the meta-learning algorithm to develop a general adaptive graph meta-learner and transfer it to new BDs. Specifically, we use an adaptive multi-view graph classifier to select the appropriate view for specific disease classification and a reinforcement-learning-based meta-controller to alleviate the over-fitting when adapting to new datasets with small sizes. Experiments on 4,114 fMRI data from multiple datasets covering a broad range of BDs demonstrate the effectiveness of modules in our framework and the advantages over other comparison methods. This work may pave the basis for fMRI-based deep learning models being widely used in clinical applications.},
   booktitle    = {International Conference on Medical Image Computing and Computer-Assisted Intervention},
   pages        = {99--108},
   year         = {2023},
-  organization = {Springer}
+  organization = {Springer},
+  pdf          = {https://link.springer.com/chapter/10.1007/978-3-031-43993-3_10}
 }
 
 @inproceedings{zhang2023transformer,
@@ -36,8 +38,10 @@
 @inproceedings{liu2023learning,
   title        = {Learning Hierarchical-Order Functional Connectivity Networks for Mild Cognitive Impairment Diagnosis},
   author       = {Liu, Yuxiao and Liu, Mianxin and Zhang, Yuanwang and Shen, Dinggang},
+  abstract     = {Functional connectivity network (FCN) extracted from resting-state fMRI has been widely used for brain disease diagnosis. However, previous FCN-based studies have at least two limitations: 1) The FCN construction procedure is often handcrafted and not optimized for diagnosis tasks; 2) The connectivity is limited to be pair-wise (low-order) and not to capture high-order collective interactions between groups of brain regions. Accordingly, we propose a unified framework to learn both low- and high-order diseased-related FCNs. First, an encoder is designed to extract disease-related features from fMRI signals, based on which disease-related low-order FCN (D-LOFCN, order k = 1) is built. Then, by correlating disease-related correlation profiles from D-LOFCN by the graph attention mechanism, we iteratively construct the disease-related high-order FCNs (D-HOFCNs) at k-order (k > 1). Finally, both D-LOFCN and D-HOFCNs are forwarded into corresponding GNNs for producing the diagnosis. The experiments demonstrate that our method has higher performance over other state-of-the-art methods on mild cognitive impairment diagnosis task.},
   booktitle    = {2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)},
   pages        = {1--5},
   year         = {2023},
-  organization = {IEEE}
+  organization = {IEEE},
+  pdf          = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230532}
 }

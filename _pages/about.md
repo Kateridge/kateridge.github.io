@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Schoole of BME, ShanghaiTech, Shanghai, China
 # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
