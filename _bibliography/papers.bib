@@ -4,10 +4,12 @@
 @inproceedings{zhang2023vector,
   title        = {Vector Quantized Multi-modal Guidance for Alzheimer’s Disease Diagnosis Based on Feature Imputation},
   author       = {Zhang, Yuanwang and Sun, Kaicong and Liu, Yuxiao and Ou, Zaixin and Shen, Dinggang},
+  abstract     = {Magnetic Resonance Imaging (MRI) and positron emission tomography (PET) are the most used imaging modalities for    Alzheimer’s disease (AD) diagnosis in clinics. Although PET can better capture AD-specific pathologies than MRI, it is less used compared with MRI due to high cost and radiation exposure. Imputing PET images from MRI is one way to bypass the issue of unavailable PET, but is challenging due to severe ill-posedness. Instead, we propose to directly impute classification-oriented PET features and combine them with real MRI to improve the overall performance of AD diagnosis. In order to more effectively impute PET features, we discretize the feature space by vector quantization and employ transformer to perform feature transition between MRI and PET. Our model is composed of three stages including codebook generation, mapping construction, and classifier enhancement based on combined features. We employ paired MRI-PET data during training to enhance the performance of MRI data during inference. Experimental results on ADNI dataset including 1346 subjects show a boost in classification performance of MRI without requiring PET. Our proposed method also outperforms other state-of-the-art data imputation methods.},
   booktitle    = {International Workshop on Machine Learning in Medical Imaging},
   pages        = {403--412},
   year         = {2023},
-  organization = {Springer}
+  organization = {Springer},
+  pdf          = {https://link.springer.com/chapter/10.1007/978-3-031-45673-2_40}
 }
 
 @inproceedings{liu2023development,
@@ -22,10 +24,13 @@
 @inproceedings{zhang2023transformer,
   title        = {Transformer-Based Multimodal Fusion for Early Diagnosis of Alzheimer's Disease Using Structural MRI And PET},
   author       = {Zhang, Yuanwang and Sun, Kaicong and Liu, Yuxiao and Shen, Dinggang},
+  abstract     = {Magnetic Resonance Imaging (MRI) and Positron Emission Tomography (PET) are both the widely used imaging modalities for early diagnosis of Alzheimer's disease (AD). Combining these two modalities allow using both anatomical and metabolic information for evaluating brain status. However, the commonly-used multimodal fusion strategy, i.e., through channel concatenation, cannot effectively exploit complementary information among these two modalities. To encourage effective information exchange between structural MRI (sMRI) and FDG-PET as used in our study for early AD diagnosis, we propose a novel transformer-based multimodal fusion framework. Specially, our proposed model composes of three parts: 1) Feature extraction based on adversarial training; 2) Feature fusion based on multimodal transformer through cross-attention mechanism; 3) Classification head based on full connection. By resorting to adversarial learning, the feature gap between two modalities becomes smaller, thus easing the cross-attention operation to achieve more effective fusion. In the experiment, we show that our model outperforms other representative models by a large margin.},
   booktitle    = {2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)},
   pages        = {1--5},
   year         = {2023},
-  organization = {IEEE}
+  organization = {IEEE},
+  pdf          = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10230577},
+  code         = {https://github.com/Kateridge/TransMF_AD}
 }
 
 @inproceedings{liu2023learning,
