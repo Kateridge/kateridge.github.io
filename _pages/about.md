@@ -20,6 +20,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m currently a graduate student at IDEA Lab, Schoole of BME, ShanghaiTech University, supervised by Dr. Dinggang Shen. I received my Bachelor’s degrees in Computer Science and Technology from Chongqing University, Chongqing, China.
+I’m currently a graduate student at IDEA Lab, Schoole of BME, ShanghaiTech University, supervised by Prof. Dinggang Shen. I received my Bachelor’s degrees in Computer Science and Technology from Chongqing University, Chongqing, China.
 
 My research interests include medical image analysis and computer-aided diagnosis. More specificly, I mainly work on multimodal fusion for brain disease diganosis and image-to-image translation for medical image in the past two years.
