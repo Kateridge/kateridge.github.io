@@ -1,22 +1,65 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: A Progressive Single-Modality to Multi-modality Classification Framework for Alzheimer’s Disease Sub-type Diagnosis
+    authors: Yuxiao Liu*, Mianxin Liu*, <strong>Yuanwang Zhang</strong>, Kaicong Sun, Dinggang Shen
+    conference_short: MLCN
+    conference: International Workshop on Machine Learning in Clinical Neuroimaging (MLCN), 2024
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-78761-4_12
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: A Graph-Embedded Latent Space Learning and Clustering Framework for Incomplete Multimodal Multiclass Alzheimer’s Disease Diagnosis
+    authors: Zaixin Ou, Caiwen Jiang, Yuxiao Liu, <strong>Yuanwang Zhang</strong>, Zhiming Cui, Dinggang Shen
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-72104-5_5
+    code: https://github.com/Ouzaixin/Graph-SLC
+
+  - title: "A Modality-Flexible Framework for Alzheimer's Disease Diagnosis Following Clinical Routine"
+    authors: <strong>Yuanwang Zhang</strong>, Kaicong Sun, Yuxiao Liu, Fang Xie, Qihao Guo, Dinggang Shen
+    conference_short: IEEE JBHI
+    conference: IEEE Journal of Biomedical and Health Informatics (JBHI), 2024
+    pdf: https://ieeexplore.ieee.org/abstract/document/10702472
+    code: https://github.com/Kateridge/MultimodalAD
+    image: ./assets/img/JBHI.png
+
+  - title: "Achieving multi-modal brain disease diagnosis performance using only single-modal images through generative AI"
+    authors: Kaicong Sun, <strong>Yuanwang Zhang</strong>, Jiameng Liu, Ling Yu, Yan Zhou, Fang Xie, Qihao Guo, Han Zhang, Qian Wang, Dinggang Shen
+    conference_short: Communication Engineering
+    conference: Communication Engineering, 2024
+    pdf: https://www.nature.com/articles/s44172-024-00245-w
+    code: https://github.com/sunkg/Classification
+    image: ./assets/img/CE.webp
+
+  - title: "A Prior-information-guided Residual Diffusion Model for Multi-modal PET Synthesis from MRI"
+    authors: Zaixin Ou, Caiwen Jiang, Yongsheng Pan, <strong>Yuanwang Zhang</strong>, Zhiming Cui, Dinggang Shen
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence, 2024
+    pdf: https://www.ijcai.org/proceedings/2024/527
+    code: https://github.com/Ouzaixin/ResDM
+
+  - title: "Vector Quantized Multi-modal Guidance for Alzheimer’s Disease Diagnosis Based on Feature Imputation"
+    authors: <strong>Yuanwang Zhang</strong>, Kaicong Sun, Yuxiao Liu, Zaixin Ou, Dinggang Shen
+    conference_short: MLMI
+    conference: International Workshop on Machine Learning in Medical Imaging (MLMI), 2023
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-45673-2_40
+    code: https://github.com/Kateridge/VQ_AD_Diganosis
+    image: ./assets/img/MLMI.png
+
+  - title: "Development and Fast Transferring of General Connectivity-Based Diagnosis Model to New Brain Disorders with Adaptive Graph Meta-Learner"
+    authors: Yuxiao Liu, Mianxin Liu, <strong>Yuanwang Zhang</strong>, Dinggang Shen
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-43993-3_10
+
+  - title: "Transformer-Based Multimodal Fusion for Early Diagnosis of Alzheimer's Disease Using Structural MRI And PET"
+    authors: <strong>Yuanwang Zhang</strong>, Kaicong Sun, Yuxiao Liu, Dinggang Shen
+    conference_short: ISBI
+    conference: 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)
+    pdf: https://ieeexplore.ieee.org/abstract/document/10230577/
+    code: https://github.com/Kateridge/TransMF_AD
+    image: ./assets/img/ISBI.png
+  
+  - title: "Learning Hierarchical-Order Functional Connectivity Networks for Mild Cognitive Impairment Diagnosis"
+    authors: Yuxiao Liu, Mianxin Liu, <strong>Yuanwang Zhang</strong>, Dinggang Shen
+    conference_short: ISBI
+    conference: 2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)
+    pdf: https://ieeexplore.ieee.org/abstract/document/10230532/

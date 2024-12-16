@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I’m a 1st year PhD student at University of Pennsylvania, supervised by Prof. Yong Fan. Previously, I received my Master's degrees in Computer Science and Technology from ShanghaiTech University, supevised by Prof. Dinggang Shen.
 
-## Research Interests
+My research interests include medical image analysis and computer-aided diagnosis. I mainly work on multimodal fusion for brain disease diganosis and image-to-image translation for medical image in the past two years.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2024]** Our paper about Multimodal AD diagnosis is accepted by *IEEE JBHI*.
+
+- **[July. 2024]** Our paper about AD diagnosis with missing modality is accepted by *Communication Engineering*.
+
+  
 
 {% include_relative _includes/publications.md %}
 
