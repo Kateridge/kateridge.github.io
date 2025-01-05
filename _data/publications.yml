@@ -1,5 +1,11 @@
 main:
 
+  - title: Amyloid-β Deposition Prediction with Large Language Model Driven and Task Oriented Learning of Brain Functional Networks
+    authors: Yuxiao Liu*, Mianxin Liu, <strong>Yuanwang Zhang</strong>, Yihui Guan, Qihao Guo, Fang Xie, Dinggang Shen
+    conference_short: IEEE TMI
+    conference: IEEE Transactions on Medical Imaging, 2025
+    pdf: https://ieeexplore.ieee.org/document/10820856
+
   - title: A Progressive Single-Modality to Multi-modality Classification Framework for Alzheimer’s Disease Sub-type Diagnosis
     authors: Yuxiao Liu*, Mianxin Liu*, <strong>Yuanwang Zhang</strong>, Kaicong Sun, Dinggang Shen
     conference_short: MLCN

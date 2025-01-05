@@ -12,6 +12,8 @@ My research interests include medical image analysis and computer-aided diagnosi
 
 ## News
 
+- **[Jan. 2025]** Our paper about Amyloid-beta prediction is accepted by *IEEE TMI*.
+
 - **[Sep. 2024]** Our paper about Multimodal AD diagnosis is accepted by *IEEE JBHI*.
 
 - **[July. 2024]** Our paper about AD diagnosis with missing modality is accepted by *Communication Engineering*.
